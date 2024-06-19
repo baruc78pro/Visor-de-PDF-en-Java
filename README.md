@@ -2,4 +2,8 @@
 
 Visor PDF en Java con ApachePDFBox 3.0.2
 
-[![visor.png](https://i.postimg.cc/BnPqQVmj/visor.png)](https://postimg.cc/k29rTf3C)
+___________________________________________________________________________________
+
+El visor esta contruido en la version 21 del JDK usando Netbeans
+
+[![visor.png](https://i.postimg.cc/2yvndwwT/visor.png)](https://postimg.cc/QK8BhcvW)
